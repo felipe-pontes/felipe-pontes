@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipe-pontes
 - 👀 I’m interested in learning and improving myself
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning DevOPS
 - 💞️ I’m looking to collaborate on anything since i get enough help to learn
 - 📫 How to reach me email me
 
